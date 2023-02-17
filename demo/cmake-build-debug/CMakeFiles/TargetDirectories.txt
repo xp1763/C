@@ -1,0 +1,3 @@
+C:/Users/xp/Desktop/C/demo/cmake-build-debug/CMakeFiles/demo.dir
+C:/Users/xp/Desktop/C/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xp/Desktop/C/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
