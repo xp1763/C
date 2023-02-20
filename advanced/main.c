@@ -31,10 +31,25 @@ void Counting_sort()
     }
 
 }
-
+int find_max()
+{
+    int nums[5]={7,1,2,11111111,11111};
+    int len_nums= sizeof(nums)/sizeof(nums[0]);
+    int max;
+    printf("%d\n",len_nums);
+    for (int i =0;i<len_nums;i++)
+    {
+        if(nums[i]>=max){
+            max=nums[i];
+            printf("%d\n",i);
+        }
+    }
+    printf("%d",max);
+}
 
 int main() {
-    Helloworld();
-    Counting_sort();
+    //Helloworld();
+    //Counting_sort();
+    find_max();
     return 0;
 }
