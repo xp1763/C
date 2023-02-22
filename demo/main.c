@@ -28,6 +28,19 @@ void printf_star()
         system("cls");
     }
 }
+void printf_style()
+{
+    int a=10;
+    int b=-10;
+    float c = 6.6f;
+    double d =3.1415926;
+    double e =10.10;
+    char f = 'a';
+    //有符号整数（可以输出负数）
+    printf("a=%d\n",a);
+    printf("a=%i\n",a);
+
+}
 int main() {
     //call();
     //printf("Hello, World!\n");
