@@ -1,3 +1,0 @@
-C:/Users/xp/Desktop/C/advanced/cmake-build-debug/CMakeFiles/advanced.dir
-C:/Users/xp/Desktop/C/advanced/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/xp/Desktop/C/advanced/cmake-build-debug/CMakeFiles/rebuild_cache.dir
